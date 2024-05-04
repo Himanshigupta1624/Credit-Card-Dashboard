@@ -2,11 +2,11 @@
 
 ## Overview
 
-This Power BI project provides an interactive dashboard for analyzing credit card transaction and customer data from a SQL database. The dashboard offers real-time insights into key financial metrics and trends, enabling stakeholders to make informed decisions.
+This Power BI project provides an interactive dashboard for analyzing credit card transactions and customer data from an SQL database. The dashboard offers real-time insights into key financial metrics and trends, enabling stakeholders to make informed decisions.
 
 ## Features
 
-- **Real-time Data Analysis**: Utilizing transaction and customer data from a SQL database, the dashboard provides real-time analysis of credit card financial data.
+- **Real-time Data Analysis**: Utilizing transaction and customer data from an SQL database, the dashboard provides real-time analysis of credit card financial data.
   
 - **Key Performance Metrics**: The dashboard tracks key performance metrics such as total transaction volume, revenue, average transaction value, customer acquisition rate, and customer retention rate.
 
@@ -26,19 +26,19 @@ This Power BI project provides an interactive dashboard for analyzing credit car
 
 ## Key Insights
 
-![Key Insights](![key insights](https://github.com/Himanshigupta1624/Credit-Card-Dashboard/assets/132488846/c1ddc7b4-f9c2-4896-b74a-eddbe1917de5)
-)
+![key insights](https://github.com/Himanshigupta1624/Credit-Card-Dashboard/assets/132488846/c1ddc7b4-f9c2-4896-b74a-eddbe1917de5)
+
 
 
 ## Requirements
 
 - Power BI Desktop: The desktop application is used for creating and editing Power BI reports and dashboards.
-- SQL Database: Access to transaction and customer data stored in a SQL database.
+- SQL Database: Access to transaction and customer data stored in an SQL database.
 - Basic SQL Skills: For extracting and querying data from the SQL database.
 - Power BI Pro (Optional): For sharing and collaborating on reports with other users in your organization.
 
 ## License
 
-This project is free to use and does not contains any license.
+This project is free to use and does not contain any license.
 
 
